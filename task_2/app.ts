@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", ():void=>{
-    const root = document.getElementById("#root");
     const allSquares = document.querySelector("#allSquares");
 
     const addSquare = (background:string):void=>{
